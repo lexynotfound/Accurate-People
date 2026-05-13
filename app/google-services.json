@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412070968200",
+    "project_id": "accurate-people",
+    "storage_bucket": "accurate-people.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412070968200:android:2f88911ae9557ba5e0983d",
+        "android_client_info": {
+          "package_name": "com.rai.accuratepeople"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaBycvVbmuxh_BGCPbgEoLwrQazYA0_b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

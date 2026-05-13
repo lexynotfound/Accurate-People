@@ -24,4 +24,8 @@ dependencyResolutionManagement {
 
 rootProject.name = "Accurate People"
 include(":app")
- 
+include(":core:common")
+include(":core:network")
+include(":core:database")
+include(":core:ui")
+include(":feature:users")
